@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **PowerBI**
 
-- 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Risk Management**
+- 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Risk Management, Financial Planning & Analysis (FP&A)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
