@@ -21,7 +21,7 @@ Teradata, SQL Server, Oracle, PostgreSQL
 
 ## Links to my public project repositories are below:
 
-[Python Forecast Demo] (https://github.com/garth-c/python_forecasting.git)https://github.com/garth-c/python_forecasting.git)
+[Python Forecast Demo] (https://github.com/garth-c/python_forecasting.git)
 
 [R classification model demo] (https://github.com/garth-c/r_exploratory_classification_modeling.git)
 
