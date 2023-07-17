@@ -18,3 +18,7 @@ RStudio, PyCharm
 
 <h3 align="left">Databases Used:</h3>
 Teradata, SQL Server, Oracle, PostgreSQL
+
+## Links to my public project repositories are below:
+
+
