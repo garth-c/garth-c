@@ -25,4 +25,6 @@ Teradata, SQL Server, Oracle, PostgreSQL
 
 [R classification model demo] (https://github.com/garth-c/r_exploratory_classification_modeling.git)
 
+[NLP Demo] (https://github.com/garth-c/nlp_demo.git)
+
 
