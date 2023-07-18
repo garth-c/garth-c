@@ -27,4 +27,6 @@ Teradata, SQL Server, Oracle, PostgreSQL
 
 [NLP demo] (https://github.com/garth-c/nlp_demo.git)
 
+[Tableau demo] (https://github.com/garth-c/tableau.git)
+
 
