@@ -33,4 +33,6 @@ Teradata, SQL Server, Oracle, PostgreSQL
 
 [Regression demo] (https://github.com/garth-c/regression.git)
 
+Thanks for exploring these projects!
+
 ---------------------------------------------------------------------------------
