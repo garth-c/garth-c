@@ -19,6 +19,9 @@ R, R-Shiny, Python, SQL, Tableau, PowerBI
 
 ![icons8-power-bi-48](https://github.com/garth-c/garth-c/assets/138831938/7871d1f9-4b05-46f3-b56d-944afe1be7fd)
 
+![sql](https://github.com/garth-c/garth-c/assets/138831938/ff645090-a869-43cf-b8a5-4064feb626b9)
+
+
 
 
 <h3 align="left">IDEs Used:</h3>
