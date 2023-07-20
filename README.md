@@ -13,6 +13,8 @@
 <h3 align="left">Languages and Tools Used:</h3>
 R, R-Shiny, Python, SQL, Tableau, PowerBI
 
+[![My Skills](https://skills.thijs.gg/icons?i=r,python,&theme=light)](https://skills.thijs.gg)
+
 <h3 align="left">IDEs Used:</h3>
 RStudio, PyCharm
 
