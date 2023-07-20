@@ -19,6 +19,8 @@ RStudio, PyCharm
 <h3 align="left">Databases Used:</h3>
 Teradata, SQL Server, Oracle, PostgreSQL
 
+---------------------------------------------------------------------------------
+
 ## Links to my public project repositories are below:
 
 [Python forecast demo] (https://github.com/garth-c/python_forecasting.git)
@@ -29,4 +31,6 @@ Teradata, SQL Server, Oracle, PostgreSQL
 
 [Tableau demo] (https://github.com/garth-c/tableau.git)
 
+[Regression demo](https://github.com/garth-c/regression.git)
 
+---------------------------------------------------------------------------------
