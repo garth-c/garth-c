@@ -13,7 +13,8 @@
 <h3 align="left">Languages and Tools Used:</h3>
 R, R-Shiny, Python, SQL, Tableau, PowerBI
 
-[![My Skills](https://skills.thijs.gg/icons?i=r,&theme=light)](https://skills.thijs.gg)
+
+![icons8-r-project-48](https://github.com/garth-c/garth-c/assets/138831938/a4dcbeee-6125-4292-890f-3fe6a2675ddb)
 ![python](https://github.com/garth-c/garth-c/assets/138831938/01b4701d-ceb3-48cf-b424-0eda05082fc8)
 ![sql](https://github.com/garth-c/garth-c/assets/138831938/fc8d573c-0f44-4bfc-94d5-09e99970eb52)
 ![icons8-tableau-software-48](https://github.com/garth-c/garth-c/assets/138831938/1df6b26d-c670-4f4a-9237-530ffacb409f)
