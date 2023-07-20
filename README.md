@@ -31,6 +31,6 @@ Teradata, SQL Server, Oracle, PostgreSQL
 
 [Tableau demo] (https://github.com/garth-c/tableau.git)
 
-[Regression demo](https://github.com/garth-c/regression.git)
+[Regression demo] (https://github.com/garth-c/regression.git)
 
 ---------------------------------------------------------------------------------
