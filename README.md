@@ -14,14 +14,9 @@
 R, R-Shiny, Python, SQL, Tableau, PowerBI
 
 [![My Skills](https://skills.thijs.gg/icons?i=r,python,&theme=light)](https://skills.thijs.gg)
-
+![sql](https://github.com/garth-c/garth-c/assets/138831938/fc8d573c-0f44-4bfc-94d5-09e99970eb52)
 ![icons8-tableau-software-48](https://github.com/garth-c/garth-c/assets/138831938/1df6b26d-c670-4f4a-9237-530ffacb409f)
-
 ![icons8-power-bi-48](https://github.com/garth-c/garth-c/assets/138831938/7871d1f9-4b05-46f3-b56d-944afe1be7fd)
-
-![sql](https://github.com/garth-c/garth-c/assets/138831938/ff645090-a869-43cf-b8a5-4064feb626b9)
-
-
 
 
 <h3 align="left">IDEs Used:</h3>
