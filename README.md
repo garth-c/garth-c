@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garth</h1>
-<h3 align="center">Data Analyst | Business Intelligence Developer | Data Scientist</h3>
+<h3 align="center">Data Analyst | Business Intelligence Developer | Data Scientist | Risk Manager | Financial Analyst </h3>
 
 - 🌱 I’m currently learning: **PowerBI** and studying for the **PL-300 Exam**
 
