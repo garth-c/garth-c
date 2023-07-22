@@ -45,6 +45,9 @@ For data science, business intelligence development, or any other contract work 
 
 [Regression demo] (https://github.com/garth-c/regression.git)
 
+[Power BI demo] (https://github.com/garth-c/PowerBI.git)
+
+
 Thanks for exploring these projects!
 
 ---------------------------------------------------------------------------------
