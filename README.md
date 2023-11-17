@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garth</h1>
 <h3 align="center">Data Analyst | Business Intelligence Developer | Data Scientist | Risk Manager | Financial Analyst </h3>
 
-- 🌱 I’m currently learning: **PowerBI** and studying for the **Microsoft PL-300 Exam**
 
 - 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Risk Management, Financial Planning & Analysis (FP&A)**
 
