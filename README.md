@@ -21,7 +21,7 @@ R/R-Shiny, Python, SQL, Tableau, PowerBI
 
 
 <h3 align="left">IDEs Used:</h3>
-RStudio, PyCharm
+RStudio, PyCharm, Azure Data Studio, SSMS
 
 <h3 align="left">Databases Used:</h3>
 Teradata, SQL Server, Oracle, PostgreSQL
