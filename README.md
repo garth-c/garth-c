@@ -28,7 +28,7 @@ Teradata, SQL Server, Oracle, PostgreSQL
 
 -------------------------------------------------------------------------
 
-For data science, business intelligence development, or any other contract work opportunities, I am able to deliver my work product using any of the standard cloud services such as: Posit (RStudio) Cloud, Tableau Online, PowerBI Cloud, Amazon Web Services, etc.
+For data science, business intelligence development, or any other contract work opportunities, I am able to deliver my work product using any of the standard cloud services such as: Posit (RStudio) Cloud, Tableau Online, PowerBI Service, Azure Cloud, Amazon Web Services, etc.
 
 ---------------------------------------------------------------------------------
 
