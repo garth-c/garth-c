@@ -4,8 +4,9 @@
 
 - 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Risk Management, Financial Planning & Analysis (FP&A)**
 <h3 align="center">BI Software Certs:</h3>
-![linkedin_thumb_image](https://github.com/user-attachments/assets/8886b5ee-b3fa-4710-a15d-e507c1fb14c1)
-![pbi](https://github.com/user-attachments/assets/28f85aeb-3a86-4a16-b2ab-5114a1235129)
+![image](https://github.com/user-attachments/assets/5204f29d-0c50-40d9-a907-020e99c4f5cb)
+![image](https://github.com/user-attachments/assets/42f22f34-5398-41bd-9a89-ba83cf2b7cac)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
