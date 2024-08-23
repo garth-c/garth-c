@@ -3,6 +3,9 @@
 
 
 - 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Risk Management, Financial Planning & Analysis (FP&A)**
+- Microsoft Certified: Power BI Data Analyst Associate ![image](https://github.com/user-attachments/assets/d97ad062-618f-4619-bf76-4ea0e42a0c20)
+- Tableau Desktop Specialist ![image](https://github.com/user-attachments/assets/41196a92-b1d6-4eca-9dcb-e76c454cb9a2)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
