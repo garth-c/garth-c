@@ -3,6 +3,7 @@
 
 
 - 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Risk Management, Financial Planning & Analysis (FP&A)**
+<h3 align="left">
 ![image](https://github.com/user-attachments/assets/d97ad062-618f-4619-bf76-4ea0e42a0c20)
 ![image](https://github.com/user-attachments/assets/41196a92-b1d6-4eca-9dcb-e76c454cb9a2)
 
