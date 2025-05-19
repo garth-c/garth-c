@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Business Intelligence Developer | Data Scientist | Risk Manager | Financial Analyst </h3>
 
 
-- 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Risk Management, Financial Planning & Analysis (FP&A)**
+- 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Data Engineering, Financial Planning & Analysis (FP&A)**
 <h3 align="left">BI Software Certs:</h3>
 
 ![IMG_0298](https://github.com/user-attachments/assets/ed185eeb-5688-4ea9-8c5d-9b5c902f14e0)
