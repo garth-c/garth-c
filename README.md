@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Garth</h1>
-<h3 align="center">Data Analyst | Business Intelligence Developer | Data Scientist | Risk Manager | Financial Analyst </h3>
+<h3 align="center">Data Analyst | Business Intelligence Developer | Data Scientist | Data Engineer | Financial Analyst </h3>
 
 
 - 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Data Engineering, Financial Planning & Analysis (FP&A)**
 <h3 align="left">BI Software Certs:</h3>
 
-![IMG_0298](https://github.com/user-attachments/assets/ed185eeb-5688-4ea9-8c5d-9b5c902f14e0)
+![dp600](https://github.com/user-attachments/assets/1721eb68-1fe2-4f86-a395-e40f02b6c617)
 ![pbi_thumbnail](https://github.com/user-attachments/assets/f4579228-0029-451a-b469-2f0123682ec8) ![tableau_thumbnail](https://github.com/user-attachments/assets/8654fee3-ec0f-4a4f-a92e-c77000bcb423)
 
 <h3 align="left">Connect with me:</h3>
