@@ -6,7 +6,8 @@
 <h3 align="left">BI Software Certs:</h3>
 
 ![dp600](https://github.com/user-attachments/assets/da1be1aa-ffe3-43fb-99a4-308c1dd657a3)
-![pbi_thumbnail](https://github.com/user-attachments/assets/f4579228-0029-451a-b469-2f0123682ec8)![Tableau_desktop_badge](https://github.com/user-attachments/assets/522ca4fe-22ab-4590-aa8b-b4d7319fd5c2)
+![pbi_thumbnail](https://github.com/user-attachments/assets/f4579228-0029-451a-b469-2f0123682ec8)![Tableau_desktop_badge](https://github.com/user-attachments/assets/ceaf66cb-e276-45b9-9ea7-2b1a9aaeef59)
+
 
 
 
