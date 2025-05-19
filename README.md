@@ -5,7 +5,7 @@
 - 💬 Ask me about: **Data Analytics, Business Intelligence, Data Science, Data Engineering, Financial Planning & Analysis (FP&A)**
 <h3 align="left">BI Software Certs:</h3>
 
-![dp600](https://github.com/user-attachments/assets/1721eb68-1fe2-4f86-a395-e40f02b6c617)
+![final-image](https://github.com/user-attachments/assets/6b004325-4e99-4a2f-aada-7213ec533aa5)
 ![pbi_thumbnail](https://github.com/user-attachments/assets/f4579228-0029-451a-b469-2f0123682ec8) ![tableau_thumbnail](https://github.com/user-attachments/assets/8654fee3-ec0f-4a4f-a92e-c77000bcb423)
 
 <h3 align="left">Connect with me:</h3>
