@@ -26,8 +26,9 @@ R/R-Shiny, Python, SQL, Tableau, PowerBI, Fabric
 ![sql](https://github.com/garth-c/garth-c/assets/138831938/fc8d573c-0f44-4bfc-94d5-09e99970eb52)
 ![icons8-tableau-software-48](https://github.com/garth-c/garth-c/assets/138831938/1df6b26d-c670-4f4a-9237-530ffacb409f)
 ![icons8-power-bi-48](https://github.com/garth-c/garth-c/assets/138831938/7871d1f9-4b05-46f3-b56d-944afe1be7fd)
-![Azure_ML_Studio](https://github.com/user-attachments/assets/463936b4-3940-4bb6-bf21-0f5e5bd6d47f)
-![fabric](https://github.com/user-attachments/assets/a1766e75-12e7-4df4-9748-f1f2177c3528)
+![Azure-Machine-Learning](https://github.com/user-attachments/assets/5f9b6ac2-f3fc-4696-82fc-a9189b8061e1)
+![fabric](https://github.com/user-attachments/assets/209c2a5d-cce5-4e7a-ae1c-13d8fe9c0beb)
+
 
 
 <h3 align="left">IDEs Used:</h3>
