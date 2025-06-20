@@ -2,7 +2,7 @@
 <h3 align="center"> Business Intelligence Developer | Data Scientist | Data & Analytics Engineer | Financial Analyst </h3>
 
 
-- 💬 Ask me about: **Business Intelligence, Data Science, Data Engineering, Financial Planning & Analysis (FP&A)**
+- 💬 Ask me about: **Business Intelligence, Data Science, Data & Analytics Engineering, Financial Planning & Analysis (FP&A)**
 <h3 align="left">Software Certs:</h3>
 
 ![dp600](https://github.com/user-attachments/assets/da1be1aa-ffe3-43fb-99a4-308c1dd657a3)
