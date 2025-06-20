@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garth</h1>
-<h3 align="center"> Business Intelligence Developer | Data Scientist | Data Engineer | Financial Analyst </h3>
+<h3 align="center"> Business Intelligence Developer | Data Scientist | Data & Analytics Engineer | Financial Analyst </h3>
 
 
 - 💬 Ask me about: **Business Intelligence, Data Science, Data Engineering, Financial Planning & Analysis (FP&A)**
