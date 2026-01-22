@@ -1,24 +1,25 @@
-<h1 align="center">Hi 👋, I'm Garth</h1>
-<h3 align="center"> Business Intelligence Developer | Data Scientist | Data & Analytics Engineer | Financial Analyst </h3>
+<h1 align="Left">Hi 👋, I'm Garth</h1>
+<h3 align="Left"> Senior Finance Data Scientist </h3>
 
 
-- 💬 Ask me about: **Business Intelligence, Data Science, Data & Analytics Engineering, Financial Planning & Analysis (FP&A)**
-<h3 align="left">Software Certs:</h3>
+- 💬 Ask me about: **Finance Data Science, Business Intelligence Development, Data & Analytics Engineering, Risk Management**
+<h3 align="left">**Active Software Certs:***</h3>
 
-![dp600](https://github.com/user-attachments/assets/da1be1aa-ffe3-43fb-99a4-308c1dd657a3)
-![pbi_thumbnail](https://github.com/user-attachments/assets/f4579228-0029-451a-b469-2f0123682ec8) ![Tableau_desktop_badge](https://github.com/user-attachments/assets/ceaf66cb-e276-45b9-9ea7-2b1a9aaeef59)
-
-
-
-
+<ul>
+  <li>DP-100: Azure Data Scientist</li>
+  <li>DP-600: Fabric Analytics Engineer</li>
+  <li>PL-300: Power BI Developer</li>
+  <li>Tableau Desktop Developer</li>
+  <li>Qualtrics XM Developer</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/garthcumpston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garthcumpston" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools Used:</h3>
-R/R-Shiny, Python, SQL, Tableau, PowerBI, Azure Machine Learning Studio, Fabric
+<h3 align="left">**My development stack**</h3>
+R/R-Shiny, Python, SQL, PowerBI, Azure, Fabric, Tableau, Qualtrics
 
 
 ![icons8-r-project-48](https://github.com/garth-c/garth-c/assets/138831938/a4dcbeee-6125-4292-890f-3fe6a2675ddb)
@@ -28,18 +29,18 @@ R/R-Shiny, Python, SQL, Tableau, PowerBI, Azure Machine Learning Studio, Fabric
 ![icons8-power-bi-48](https://github.com/garth-c/garth-c/assets/138831938/7871d1f9-4b05-46f3-b56d-944afe1be7fd)
 ![Azure-Machine-Learning](https://github.com/user-attachments/assets/5f9b6ac2-f3fc-4696-82fc-a9189b8061e1)
 ![fabric](https://github.com/user-attachments/assets/209c2a5d-cce5-4e7a-ae1c-13d8fe9c0beb)
-
+<img width="200" height="200" alt="Qualtrics" src="https://github.com/user-attachments/assets/8186f156-b5bb-4f7f-b310-7d40c1261152" />
 
 
 <h3 align="left">IDEs Used:</h3>
-RStudio, PyCharm, Visual Studio, Azure Machine Learning Studio, SSMS, anything in Microsoft Fabric
+Visual Studio, Azure Machine Learning Studio, SSMS, anything in Microsoft Azure & Fabric
 
 <h3 align="left">Databases Used:</h3>
-Teradata, SQL Server, Oracle, PostgreSQL, anything in Microsoft Fabric
+Teradata, SQL Server, Oracle, PostgreSQL, anything in Microsoft Azure & Fabric
 
 -------------------------------------------------------------------------
 
-For contract opportunities regarding: data science, business intelligence development, data engineering, or any other analytics projects, I am able to deliver my work product using any of the Microsoft and related cloud services such as: Posit (RStudio) Cloud, Tableau Online, PowerBI Service, Azure Cloud Services, Fabric, etc.
+For contract opportunities regarding: data science, business intelligence development, data engineering, or any other analytics projects, I am able to deliver my work product using Azure, Fabric, Power BI Service, Tableau Online, Qualtrics XM
 
 ---------------------------------------------------------------------------------
 
