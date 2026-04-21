@@ -7,6 +7,7 @@
 
 <ul>
   <li>DP-100: Azure Data Scientist</li>
+  <li>DP-700: Fabric Data Engineer</li>
   <li>DP-600: Fabric Analytics Engineer</li>
   <li>PL-300: Power BI Developer</li>
   <li>Tableau Desktop Developer</li>
