@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">**My development stack**</h3>
-R/R-Shiny, Python, SQL, PowerBI, Azure, Fabric, Tableau, Qualtrics
+R, Python, SQL, DAX, M, PowerBI, Azure, Fabric, Tableau, Qualtrics
 
 
 ![icons8-r-project-48](https://github.com/garth-c/garth-c/assets/138831938/a4dcbeee-6125-4292-890f-3fe6a2675ddb)
