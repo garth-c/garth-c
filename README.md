@@ -2,7 +2,7 @@
 <h3 align="Left"> Senior Finance Data Scientist </h3>
 
 
-- 💬 Ask me about: **Finance Data Science, Business Intelligence Development, Data & Analytics Engineering, Risk Management**
+- 💬 Ask me about: **Finance Data Science, ML/AI Ops, Data & Analytics Engineering**
 <h3 align="left">**Active Software Certs:***</h3>
 
 <ul>
