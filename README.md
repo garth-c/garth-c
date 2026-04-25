@@ -41,7 +41,7 @@ Teradata, SQL Server, Oracle, PostgreSQL, anything in Microsoft Azure & Fabric
 
 -------------------------------------------------------------------------
 
-For contract opportunities regarding: data science, business intelligence development, data engineering, or any other analytics projects, I am able to deliver my work product using Azure, Fabric, Power BI Service, Tableau Online, Qualtrics XM
+For contract opportunities regarding: finance data science, ML/AI Ops, data & analytics engineering, or any other analytics projects, I am able to deliver my work product using: Azure, Fabric, Foundry, or Power BI service.
 
 ---------------------------------------------------------------------------------
 
