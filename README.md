@@ -1,5 +1,5 @@
 <h1 align="Left">Hi 👋, I'm Garth</h1>
-<h3 align="Left"> Senior Finance Data Scientist </h3>
+<h3 align="Left"> Senior Finance Data Scientist</h3>
 
 
 - 💬 Ask me about: **Finance Data Science, ML/AI Ops, Data & Analytics Engineering**
@@ -34,7 +34,7 @@ R, Python, SQL, DAX, M, PowerBI, Azure, Fabric, Tableau, Qualtrics
 
 
 <h3 align="left">IDEs Used:</h3>
-Visual Studio, Azure Machine Learning Studio, SSMS, anything in Microsoft Azure & Fabric
+Visual Studio, Azure Machine Learning Studio, SSMS, anything in Microsoft: Azure, Fabric, and Foundry
 
 <h3 align="left">Databases Used:</h3>
 Teradata, SQL Server, Oracle, PostgreSQL, anything in Microsoft Azure & Fabric
