@@ -13,7 +13,7 @@
 ---------------------------------------------------------------------------------
 
 ### 🤝 Solutions & Consulting
-I am currently accepting select consulting engagements and contract opportunities. I specialize in bridging the gap between complex financial data, deep analytics, and production-ready AI/ML architecture. For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Data/Analytics Engineering**, I deliver enterprise-grade solutions using **Azure, Fabric, Foundry, or Power BI Service only.**
+I am currently accepting select consulting engagements and contract opportunities. I specialize in bridging the gap between complex financial data, deep analytics, and production-ready AI/ML architecture. For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Data/Analytics Engineering**, I deliver enterprise-grade solutions using **MS: Azure/Fabric/Foundry, or Power BI Service only.**
 
 #### **Primary Deliverables:**
 *   **🤖 Custom LLM Agents for Finance:** Intelligent agents for automated processes, analyses, and analytics.
@@ -55,7 +55,7 @@ I am currently accepting select consulting engagements and contract opportunitie
 <h3 align="left">My development stack:</h3>
 <ul>
   <li><b>Languages:</b> R, Python, SQL, DAX, M</li>
-  <li><b>Platforms:</b> PowerBI Service, Azure, Fabric, Foundry, Qualtrics</li>
+  <li><b>Platforms:</b> PowerBI Service, MS: Azure/Fabric/Foundry, Qualtrics</li>
 </ul>
 
 
