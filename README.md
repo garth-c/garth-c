@@ -6,10 +6,10 @@
 ---------------------------------------------------------------------------------
 
 ### 🤝 Solutions & Consulting
-I am currently accepting select consulting engagements and contract opportunities. I specialize in bridging the gap between complex financial data, deep analytics, and production-ready AI/ML architecture. For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Data/Analytics Engineering**, I deliver enterprise-grade solutions using **Azure, Fabric, Foundry, or Power BI only**
+I am currently accepting select consulting engagements and contract opportunities. I specialize in bridging the gap between complex financial data, deep analytics, and production-ready AI/ML architecture. For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Data/Analytics Engineering**, I deliver enterprise-grade solutions using **Azure, Fabric, Foundry, or Power BI only.**
 
 #### **Primary Deliverables:**
-*   **🤖 Custom LLM Agents for Finance:** Intelligent agents for automated processes, analysis, and analytics.
+*   **🤖 Custom LLM Agents for Finance:** Intelligent agents for automated processes, analyses, and analytics.
 *   **⚙️ Azure/Fabric ML Ops Implementation:** End-to-end production pipelines for scalable AI.
 *   **📊 Advanced Risk & Forecasting Models:** Decision-support systems that thrive in high-uncertainty environments.
 
@@ -19,7 +19,7 @@ I am currently accepting select consulting engagements and contract opportunitie
 *   **⚖️ Bayesian Applied Statistics (Inference, Uncertainty, Decision-Making)**
     *   *Rigorous Bayesian inference and posterior estimation to enable high-stakes decision-making and risk governance.*
 *   **🎲 Monte Carlo Simulation & Scenario Stress Testing**
-    *   *Stochastic simulation and stress-testing of financial futures via custom scenarios.*
+    *   *Stochastic simulation and stress-testing of financial scenarios.*
   
 ---------------------------------------------------------------------------------
   
@@ -66,11 +66,6 @@ I am currently accepting select consulting engagements and contract opportunitie
 <h3 align="left">Ecosystem & Infrastructure:</h3>
 <b>IDEs:</b> Visual Studio, Azure ML Studio, MS Fabric, MS Foundry, SSMS <br>
 <b>Databases:</b> Teradata, SQL Server, Oracle, PostgreSQL, any on Azure/Fabric
-
--------------------------------------------------------------------------
-
-### Solutions & Consulting:
-For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Analytics Engineering**, I deliver enterprise-grade solutions using **Azure, Fabric, Foundry, or Power BI.**
 
 ---------------------------------------------------------------------------------
 
