@@ -6,12 +6,12 @@
 ---------------------------------------------------------------------------------
 
 ### 🤝 Solutions & Consulting
-I am currently accepting select consulting engagements and contract opportunities. I specialize in bridging the gap between complex financial data, deep analytics, and production-ready AI/ML architecture. For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Data/Analytics Engineering**, I deliver enterprise-grade solutions using **Azure, Fabric, Foundry, or Power BI only.**
+I am currently accepting select consulting engagements and contract opportunities. I specialize in bridging the gap between complex financial data, deep analytics, and production-ready AI/ML architecture. For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Data/Analytics Engineering**, I deliver enterprise-grade solutions using **Azure, Fabric, Foundry, or Power BI Service only.**
 
 #### **Primary Deliverables:**
 *   **🤖 Custom LLM Agents for Finance:** Intelligent agents for automated processes, analyses, and analytics.
 *   **⚙️ Azure/Fabric ML Ops Implementation:** End-to-end production pipelines for scalable AI.
-*   **📊 Advanced Risk & Forecasting Models:** Decision-support systems that thrive in high-uncertainty environments.
+*   **📊 Advanced Risk & Forecasting Models:** Decision-support systems that contextualizes high-uncertainty environments.
 
 #### **Core Quantitative Pillars:**
 *   **📈 Time Series Forecasting (Hierarchical, Probabilistic, Scenario-Based)**
@@ -46,7 +46,7 @@ I am currently accepting select consulting engagements and contract opportunitie
 <h3 align="left">My development stack:</h3>
 <ul>
   <li><b>Languages:</b> R, Python, SQL, DAX, M</li>
-  <li><b>Platforms:</b> PowerBI, Azure, Fabric, Foundry, Tableau, Qualtrics</li>
+  <li><b>Platforms:</b> PowerBI Service, Azure, Fabric, Foundry, Qualtrics</li>
 </ul>
 
 
@@ -63,6 +63,7 @@ I am currently accepting select consulting engagements and contract opportunitie
 </p>
 
 ---------------------------------------------------------------------------------
+
 <h3 align="left">Ecosystem & Infrastructure:</h3>
 <b>IDEs:</b> Visual Studio, Azure ML Studio, MS Fabric, MS Foundry, SSMS <br>
 <b>Databases:</b> Teradata, SQL Server, Oracle, PostgreSQL, any on Azure/Fabric
