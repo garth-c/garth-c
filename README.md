@@ -1,7 +1,14 @@
-<h1 align="Left">Hi 👋, I'm Garth</h1>
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>Hi 👋, I'm Garth</h1>
+    </summary>
+  </ul>
+</div>
 <h3 align="Left"> + Certified Public Accountant (CPA)</h3>
 <h3 align="Left"> + Certified Analytics Professional - Expert (CAP: INFORMS)</h3>
 <h3 align="Left"> + Finance Data Scientist</h3>
+
 
 ---------------------------------------------------------------------------------
 
@@ -54,7 +61,6 @@ I am currently accepting select consulting engagements and contract opportunitie
   <img src="https://github.com/garth-c/garth-c/assets/138831938/a4dcbeee-6125-4292-890f-3fe6a2675ddb" alt="R" height="40"/>
   <img src="https://github.com/garth-c/garth-c/assets/138831938/01b4701d-ceb3-48cf-b424-0eda05082fc8" alt="Python" height="40"/>
   <img src="https://github.com/garth-c/garth-c/assets/138831938/fc8d573c-0f44-4bfc-94d5-09e99970eb52" alt="SQL" height="40"/>
-  <img src="https://github.com/garth-c/garth-c/assets/138831938/1df6b26d-c670-4f4a-9237-530ffacb409f" alt="Tableau" height="40"/>
   <img src="https://github.com/garth-c/garth-c/assets/138831938/7871d1f9-4b05-46f3-b56d-944afe1be7fd" alt="PowerBI" height="40"/>
   <img src="https://github.com/user-attachments/assets/5f9b6ac2-f3fc-4696-82fc-a9189b8061e1" alt="AzureML" height="40"/>
   <img src="https://github.com/user-attachments/assets/209c2a5d-cce5-4e7a-ae1c-13d8fe9c0beb" alt="Fabric" height="40"/>
@@ -65,12 +71,13 @@ I am currently accepting select consulting engagements and contract opportunitie
 ---------------------------------------------------------------------------------
 
 <h3 align="left">Ecosystem & Infrastructure:</h3>
+
 <b>IDEs:</b> Visual Studio, Azure ML Studio, MS Fabric, MS Foundry, SSMS <br>
 <b>Databases:</b> Teradata, SQL Server, Oracle, PostgreSQL, any on Azure/Fabric
 
 ---------------------------------------------------------------------------------
 
-## Links to my public project repositories are below:
+<h3 align="left">Links to my public project repositories are below:</h3>
 
 - [Python Forecast Demo](https://github.com/garth-c/python_forecasting.git)
 - [R Classification Model Demo](https://github.com/garth-c/r_exploratory_classification_modeling.git)
@@ -81,5 +88,3 @@ I am currently accepting select consulting engagements and contract opportunitie
 
 
 Thanks for exploring these projects!
-
----------------------------------------------------------------------------------
