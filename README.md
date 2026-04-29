@@ -62,17 +62,12 @@ For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Analy
 
 ## Links to my public project repositories are below:
 
-[Python forecast demo] (https://github.com/garth-c/python_forecasting.git)
-
-[R classification model demo] (https://github.com/garth-c/r_exploratory_classification_modeling.git)
-
-[NLP demo] (https://github.com/garth-c/nlp_demo.git)
-
-[Tableau demo] (https://github.com/garth-c/tableau.git)
-
-[Regression demo] (https://github.com/garth-c/regression.git)
-
-[Power BI demo] (https://github.com/garth-c/PowerBI.git)
+- [Python Forecast Demo](https://github.com/garth-c/python_forecasting.git)
+- [R Classification Model Demo](https://github.com/garth-c/r_exploratory_classification_modeling.git)
+- [NLP Demo](https://github.com/garth-c/nlp_demo.git)
+- [Tableau Demo](https://github.com/garth-c/tableau.git)
+- [Regression Demo](https://github.com/garth-c/regression.git)
+- [Power BI Demo](https://github.com/garth-c/PowerBI.git)
 
 
 Thanks for exploring these projects!
