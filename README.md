@@ -5,7 +5,21 @@
 
 ---------------------------------------------------------------------------------
 
-- 💬 Ask me about: **Finance Data Science, ML/AI Ops engineering, Data & Analytics engineering**
+### 🤝 Solutions & Consulting
+I am currently accepting select consulting engagements and contract opportunities. I specialize in bridging the gap between complex financial data, deep analytics, and production-ready AI/ML architecture. For contract opportunities regarding **Finance Data Science, ML/AI Ops, or Data/Analytics Engineering**, I deliver enterprise-grade solutions using **Azure, Fabric, Foundry, or Power BI only**
+
+#### **Primary Deliverables:**
+*   **🤖 Custom LLM Agents for Finance:** Intelligent agents for automated processes, analysis, and analytics.
+*   **⚙️ Azure/Fabric ML Ops Implementation:** End-to-end production pipelines for scalable AI.
+*   **📊 Advanced Risk & Forecasting Models:** Decision-support systems that thrive in high-uncertainty environments.
+
+#### **Core Quantitative Pillars:**
+*   **📈 Time Series Forecasting (Hierarchical, Probabilistic, Scenario-Based)**
+    *   *Strategic planning featuring hierarchical forecasting, probabilistic intervals, and structural time-series models.*
+*   **⚖️ Bayesian Applied Statistics (Inference, Uncertainty, Decision-Making)**
+    *   *Rigorous Bayesian inference and posterior estimation to enable high-stakes decision-making and risk governance.*
+*   **🎲 Monte Carlo Simulation & Scenario Stress Testing**
+    *   *Stochastic simulation and stress-testing of financial futures via custom scenarios.*
   
 ---------------------------------------------------------------------------------
   
