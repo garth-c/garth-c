@@ -18,7 +18,7 @@ I am currently accepting select consulting engagements and contract opportunitie
 #### **Primary Deliverables:**
 *   **🤖 Custom LLM Agents for Finance:** Intelligent agents for automated processes, analyses, and analytics.
 *   **⚙️ Azure/Fabric ML Ops Implementation:** End-to-end production pipelines for scalable AI.
-*   **📊 Advanced Risk, Forecasting, & Evaluation Models:** Decision-support systems that contextualize high-uncertainty environments.
+*   **📊 Advanced Risk, Forecasting, & Evaluation Models:** Decision-support systems that contextualize high-uncertainty situations.
 
 #### **Core Quantitative Pillars:**
 *   **📈 Time Series Forecasting (Hierarchical, Probabilistic, Scenario-Based)**
@@ -28,7 +28,7 @@ I am currently accepting select consulting engagements and contract opportunitie
 *   **🎲 Monte Carlo Simulation & Scenario Stress Testing**
     *   *Stochastic simulation and stress-testing of financial scenarios via custom engines.*
 *   **🔍 Model Integrity & Governance (Drift, Evaluation, Observability)**
-    *   *Systematic monitoring for data and model drift, paired with advanced evaluation techniques—including counterfactual analysis and global/local explainability—to ensure long-term model reliability.*
+    *   *Systematic monitoring for data and model drift, paired with advanced evaluation techniques—including counterfactual analysis and global/local explainability—to ensure model reliability.*
   
 ---------------------------------------------------------------------------------
   
