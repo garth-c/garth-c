@@ -2,7 +2,7 @@
 <h3 align="Left"> Senior Finance Data Scientist</h3>
 
 
-- 💬 Ask me about: **Finance Data Science, ML/AI Ops, Data & Analytics Engineering**
+- 💬 Ask me about: **Finance Data Science, ML/AI Ops engineering, Data & Analytics engineering**
 <h3 align="left">**Active Software Certs:***</h3>
 
 <ul>
@@ -34,14 +34,14 @@ R, Python, SQL, DAX, M, PowerBI, Azure, Fabric, Tableau, Qualtrics
 
 
 <h3 align="left">IDEs Used:</h3>
-Visual Studio, Azure Machine Learning Studio, SSMS, anything in Microsoft: Azure, Fabric, and Foundry
+Visual Studio, Azure ML Studio, SSMS, anything in Microsoft: Azure, Fabric, or Foundry
 
 <h3 align="left">Databases Used:</h3>
 Teradata, SQL Server, Oracle, PostgreSQL, anything in Microsoft Azure & Fabric
 
 -------------------------------------------------------------------------
 
-For contract opportunities regarding: finance data science, ML/AI Ops, data & analytics engineering, or any other analytics projects, I am able to deliver my work product using: Azure, Fabric, Foundry, or Power BI service.
+For contract opportunities regarding: finance data science, ML/AI Ops engineering, data & analytics engineering, or any other analytics or quantitative projects, I am able to deliver my work product using: Azure, Fabric, Foundry, or Power BI service.
 
 ---------------------------------------------------------------------------------
 
