@@ -2,8 +2,10 @@
   <ul style="list-style: none;">
     <summary>
       <h1>Hi 👋, I'm Garth</h1>
+      <p align="left"><b>Finance‑driven: AI/ML architecture, quantitative modeling, and enterprise‑grade operationalization</b></p>
     </summary>
   </ul>
+  
 </div>
 <h3 align="Left"> + Certified Public Accountant (CPA)</h3>
 <h3 align="Left"> + Certified Analytics Professional - Expert (CAP: INFORMS)</h3>
