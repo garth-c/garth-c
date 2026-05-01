@@ -2,7 +2,7 @@
   <ul style="list-style: none;">
     <summary>
       <h1>Hi 👋, I'm Garth</h1>
-      <p align="left"><b>Finance‑driven: AI/ML architecture, quantitative modeling, and enterprise‑grade operationalization</b></p>
+      <p align="left"><b>my skill set -> Finance‑driven: AI/ML architecture, quantitative modeling, and enterprise‑grade operationalization</b></p>
     </summary>
   </ul>
   
@@ -11,6 +11,15 @@
 <h3 align="Left"> + Certified Analytics Professional - Expert (CAP: INFORMS)</h3>
 <h3 align="Left"> + Finance Data Scientist</h3>
 
+<h3 align="left">Active Data Platform Certs:</h3>
+<ul>
+  <li>DP-100: Azure Data Scientist</li>
+  <li>DP-700: Fabric Data Engineer</li>
+  <li>DP-600: Fabric Analytics Engineer</li>
+  <li>PL-300: Power BI Developer</li>
+  <li>Tableau Desktop Developer</li>
+  <li>Qualtrics XM Developer</li>
+</ul>
 
 ---------------------------------------------------------------------------------
 
@@ -32,19 +41,6 @@ I am currently accepting select consulting engagements and contract opportunitie
 *   **🔍 Model Integrity & Governance (Drift, Evaluation, Observability)**
     *   *Systematic monitoring for data and model drift, paired with advanced evaluation techniques—including counterfactual analysis and global/local explainability—to ensure model reliability.*
   
----------------------------------------------------------------------------------
-  
-<h3 align="left">Active Data Platform Certs:</h3>
-
-<ul>
-  <li>DP-100: Azure Data Scientist</li>
-  <li>DP-700: Fabric Data Engineer</li>
-  <li>DP-600: Fabric Analytics Engineer</li>
-  <li>PL-300: Power BI Developer</li>
-  <li>Tableau Desktop Developer</li>
-  <li>Qualtrics XM Developer</li>
-</ul>
-
 ---------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
