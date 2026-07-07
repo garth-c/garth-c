@@ -65,7 +65,8 @@ I am currently accepting select consulting engagements and contract opportunitie
   <img src="https://github.com/user-attachments/assets/5f9b6ac2-f3fc-4696-82fc-a9189b8061e1" alt="AzureML" height="40"/>
   <img src="https://github.com/user-attachments/assets/209c2a5d-cce5-4e7a-ae1c-13d8fe9c0beb" alt="Fabric" height="40"/>
   <img src="https://github.com/user-attachments/assets/af1395b5-cc5a-4329-ab26-38ffc773d233" alt="Foundry" height="40"/>
-  <img src="https://github.com/user-attachments/assets/8186f156-b5bb-4f7f-b310-7d40c1261152" alt="Qualtrics" height="40"/>
+  <img src="https://github.com/user-attachments/assets/2b9e56a2-8624-43b9-9596-961118d90c8a" alt="Databricks" height="40" style="vertical-align: middle;"/>  
+  <img src="https://github.com/user-attachments/assets/ce294c20-82bb-4c7d-a904-ee44111331bf" alt="Qualtrics" height="40" style="vertical-align: middle;"/>
 </p>
 
 ---------------------------------------------------------------------------------
