@@ -72,7 +72,7 @@ I am currently accepting select consulting engagements and contract opportunitie
 
 <h3 align="left">Ecosystem & Infrastructure:</h3>
 
-<b>IDEs:</b> Visual Studio, Azure ML Studio, MS Fabric, MS Foundry, SSMS <br>
+<b>IDEs:</b> Visual Studio Code, MS: Fabric/Fabric/Foundry, SSMS <br>
 <b>Databases:</b> Teradata, SQL Server, Oracle, PostgreSQL, any on Azure/Fabric
 
 ---------------------------------------------------------------------------------
