@@ -53,7 +53,7 @@ I am currently accepting select consulting engagements and contract opportunitie
 <h3 align="left">My development stack:</h3>
 <ul>
   <li><b>Languages:</b> R, Python, SQL, DAX, M</li>
-  <li><b>Platforms:</b> PowerBI Service, MS: Azure/Fabric/Foundry, Qualtrics</li>
+  <li><b>Platforms:</b> PowerBI Service, MS: Azure/Fabric/Foundry, Databricks, Qualtrics</li>
 </ul>
 
 
