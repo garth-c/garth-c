@@ -61,7 +61,6 @@ I am currently accepting select consulting engagements and contract opportunitie
   <img src="https://github.com/garth-c/garth-c/assets/138831938/01b4701d-ceb3-48cf-b424-0eda05082fc8" alt="Python" height="40"/>
   <img src="https://github.com/garth-c/garth-c/assets/138831938/fc8d573c-0f44-4bfc-94d5-09e99970eb52" alt="SQL" height="40"/>
   <img src="https://github.com/user-attachments/assets/642b35ea-33ed-410b-8a6f-3ab88b595c84" alt="DAX" height="40"/>
-  <img src="https://github.com/user-attachments/assets/e741f509-65a3-43ff-88e4-8d7f48ec22d2" alt="M_PQ" height="40"/>
   <img src="https://github.com/user-attachments/assets/a4b2d616-6c67-4458-b5f9-266ba9d0fd15" alt="PowerBI" height="40"/>
   <img src="https://github.com/user-attachments/assets/5f064370-9902-4970-b369-bf283656f16b" alt="AzureML" height="40"/>
   <img src="https://github.com/user-attachments/assets/5402ef65-e4e2-403d-93ec-a202065e0162" alt="Fabric" height="40"/>
