@@ -56,15 +56,16 @@ I am currently accepting select consulting engagements and contract opportunitie
   <li><b>Platforms:</b> PowerBI Service, MS: Azure/Fabric/Foundry, Databricks, Qualtrics</li>
 </ul>
 
-
 <p align="left">
   <img src="https://github.com/garth-c/garth-c/assets/138831938/a4dcbeee-6125-4292-890f-3fe6a2675ddb" alt="R" height="40"/>
   <img src="https://github.com/garth-c/garth-c/assets/138831938/01b4701d-ceb3-48cf-b424-0eda05082fc8" alt="Python" height="40"/>
   <img src="https://github.com/garth-c/garth-c/assets/138831938/fc8d573c-0f44-4bfc-94d5-09e99970eb52" alt="SQL" height="40"/>
-  <img src="https://github.com/garth-c/garth-c/assets/138831938/7871d1f9-4b05-46f3-b56d-944afe1be7fd" alt="PowerBI" height="40"/>
-  <img src="https://github.com/user-attachments/assets/5f9b6ac2-f3fc-4696-82fc-a9189b8061e1" alt="AzureML" height="40"/>
-  <img src="https://github.com/user-attachments/assets/209c2a5d-cce5-4e7a-ae1c-13d8fe9c0beb" alt="Fabric" height="40"/>
-  <img src="https://github.com/user-attachments/assets/af1395b5-cc5a-4329-ab26-38ffc773d233" alt="Foundry" height="40"/>
+  <img src="https://github.com/user-attachments/assets/642b35ea-33ed-410b-8a6f-3ab88b595c84" alt="DAX" height="40"/>
+  <img src="https://github.com/user-attachments/assets/e741f509-65a3-43ff-88e4-8d7f48ec22d2" alt="M_PQ" height="40"/>
+  <img src="https://github.com/user-attachments/assets/a4b2d616-6c67-4458-b5f9-266ba9d0fd15" alt="PowerBI" height="40"/>
+  <img src="https://github.com/user-attachments/assets/5f064370-9902-4970-b369-bf283656f16b" alt="AzureML" height="40"/>
+  <img src="https://github.com/user-attachments/assets/5402ef65-e4e2-403d-93ec-a202065e0162" alt="Fabric" height="40"/>
+  <img src="https://github.com/user-attachments/assets/b18077ab-d411-4403-ba5b-842452ccb7d2" alt="Foundry" height="40"/>
   <img src="https://github.com/user-attachments/assets/2b9e56a2-8624-43b9-9596-961118d90c8a" alt="Databricks" height="40" style="vertical-align: middle;"/>  
   <img src="https://github.com/user-attachments/assets/ce294c20-82bb-4c7d-a904-ee44111331bf" alt="Qualtrics" height="40" style="vertical-align: middle;"/>
 </p>
